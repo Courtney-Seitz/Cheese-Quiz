@@ -1,0 +1,29 @@
+/*
+* {
+  box-sizing: border-box;
+}*/
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: space-between;
+  align-items: center;
+  /*
+    outline: 2px solid gray;
+    */
+    background-color: lightgrey;
+}
+
+/*
+h1 {
+}*/
+.wireframe {
+  outline: 2px solid gray;
+  background-color: lightgrey;
+}
+
+#mycheese {
+  height: 200px;
+  width: 200px;
+}
