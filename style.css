@@ -12,18 +12,65 @@
   /*
     outline: 2px solid gray;
     */
-    background-color: lightgrey;
+  background-color: darkgrey;
 }
 
-/*
-h1 {
-}*/
+
 .wireframe {
   outline: 2px solid gray;
   background-color: lightgrey;
+  text-align: center;
+}
+
+.placeholder {
+  outline: 2px solid gray;
+  background-color: lightgrey;
+  width: 600px;
+  height: 400px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:10px;
 }
 
 #mycheese {
   height: 200px;
   width: 200px;
 }
+
+p {
+  font-size: 30px;
+  margin: 15px;
+
+}
+
+fieldset {
+   text-align:justify;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   justify-content:center;
+   margin: 10px;
+}
+
+label {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.mySubmitButton {
+  font-size: 15px;
+}
+
+ .myNextButton {
+   font-size: 15px;
+ }
+
+ .myAgainButton {
+   font-size: 40px;
+ }
+
+ h3 {
+   font-size: 10px;
+ }
