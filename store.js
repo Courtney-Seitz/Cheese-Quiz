@@ -11,44 +11,44 @@ const STORE = {
       answer: "Milk for yogurt is initially heated to 185 deg for 30 min."
     },
     {
-      question: "Orange cheeses are NOT artificially colored with...",
+      question: "Orange cheeses are NOT artificially colored with _____",
       options: [
         "Saffron",
         "Egg Yolks",
         "Marigold",
         "Annatto"
       ],
-      answer: ""
+      answer: "Egg Yolks"
     },
     {
-      question: "",
+      question: "What animals pass carotenoids to milk (converting it to vitamin A instead), so their cheese is white instead of yellow?",
       options: [
-        "",
-        "",
-        "",
-        ""
+        "Goats",
+        "Water Buffalo",
+        "Cows",
+        "Sheep"
       ],
-      answer: ""
+      answer: "Cows"
     },
     {
-      question: "",
+      question: "Can you make cheese from human breast milk?",
       options: [
-        "",
-        "",
-        "",
+        "No, human breast milk alone can’t be made into cheese because it contains too little protein.",
+        "Yes, A French web site, Le Petit Singly, claims that they have made cheese from human breast milk since 1947.",
+        "Sure, research has demonstrated that human milk will form a curd.",
         ""
       ],
-      answer: ""
+      answer: "No, human breast milk alone can’t be made into cheese because it contains too little protein."
     },
     {
-      question: "",
+      question: "Where do the holes in Swiss cheese come from?",
       options: [
-        "",
-        "",
-        "",
-        ""
+        "Magic",
+        "People with straws blowing bubbles into the cheese.",
+        "Mice",
+        "When Propionibacterium freudenreichii metabolizes lactic and propionic acid."
       ],
-      answer: ""
+      answer: "When Propionibacterium freudenreichii metabolizes lactic and propionic acid."
     },
 
   currentQuestion: 0,
