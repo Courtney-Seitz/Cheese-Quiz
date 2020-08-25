@@ -82,6 +82,10 @@
   margin: 10px;
 }
 
+button {
+  border: none;
+}
+
 #mycheese {
   height: 300px;
   width: 300px;
