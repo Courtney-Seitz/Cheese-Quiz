@@ -1,3 +1,4 @@
+
 const STORE = {
   questions: [
     {
@@ -50,7 +51,7 @@ const STORE = {
       ],
       answer: "When Propionibacterium freudenreichii metabolizes lactic and propionic acid."
     },
-
-  currentQuestion: 0,
-  score: 0
+    quizStarted: false,
+    currentQuestion: 0,
+    score: 0
 };
