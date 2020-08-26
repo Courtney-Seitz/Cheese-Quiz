@@ -130,7 +130,7 @@ div#option-container-0, div#option-container-1, div#option-container-2, div#opti
   background-color: #FCDF76;
 }
 
-#restart {
+button#restart {
   margin: 15px;
   background-color: #FCDF76;
 }
